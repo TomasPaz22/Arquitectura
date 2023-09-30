@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "humu-voyager": {
+      "hosting": {
+        "Arquitectura": [
+          "humu-voyager"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "humu-voyager"
+  }
+}
